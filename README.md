@@ -1,2 +1,3 @@
 # AssemblerCodes
-Contenedor de varios codigos en lengua ensamblador
+Contenedor de varios codigos en lenguage ensamblador
+Todos estos codigos estan diseñados para TASM
